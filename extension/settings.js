@@ -1,4 +1,4 @@
-let storageArea = browser.storage.local;
+let storageArea = chrome.storage.local;
 
 function restoreOptions() {
   var gettingItem = storageArea.get([

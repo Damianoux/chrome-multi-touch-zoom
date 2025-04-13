@@ -1,3 +1,7 @@
+# About (Damianoux)
+
+Changed settings.js so that settings are correctly saved to Application Storage in latest versions of Chrome
+
 # About
 
 This is a fork of: https://github.com/NayamAmarshe/firefox-multi-touch-zoom
